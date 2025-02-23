@@ -1,0 +1,61 @@
+#art1
+{
+    color: blue;
+    font-size: 75px;
+    text-align: center;
+    text-decoration: underline; 
+    background-color: rgb(62, 237, 240);
+    display: inline;
+    
+    
+}
+#home
+{
+    text-align: center;
+    background-color: rgb(27, 248, 248);
+    font-size: 18px;
+}
+#world
+{
+    background-color: rgb(47, 180, 237);
+    font-size: 25px;
+}
+.p1
+{
+    display: inline-block;
+}
+.p2
+{
+    display: inline-block;
+}
+.p3
+{
+    display: inline-block;
+}
+.p4
+{
+    display: inline-block;
+}
+.p5
+{
+    display: inline-block;
+}
+.p6
+{
+    display: inline-block;
+}
+.p7
+{
+    display: inline-block;
+}
+.p8
+{
+    display: inline-block;
+}
+#form
+{
+    font-size: 25px;
+    background-color: cornflowerblue;
+}
+
+    
